@@ -1,5 +1,5 @@
 import 'package:fancy_richtext/src/get_text_span.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class FancyRichText extends StatelessWidget {
   final String text;

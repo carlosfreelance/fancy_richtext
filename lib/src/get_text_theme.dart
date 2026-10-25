@@ -1,5 +1,5 @@
 import 'package:fancy_richtext/src/regex_const.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class GetTextStyle {
   TextStyle getTextStyle(BuildContext context, String text) {
